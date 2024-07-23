@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/portfolio"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../html5up-phantom"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-story"
+	}
+}
