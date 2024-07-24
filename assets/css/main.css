@@ -1,5 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+
 
 /*
 	Story by HTML5 UP
@@ -196,7 +198,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: "Merriweather" Georgia, 'Times New Roman', Times, serif;
+		font-family: "Merriweather", Georgia, 'Times New Roman', Times, serif;
 		font-weight: 300;
 		line-height: 1.375;
 		margin: 0 0 1rem 0;
