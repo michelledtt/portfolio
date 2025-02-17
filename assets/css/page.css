@@ -3894,7 +3894,7 @@ input, select, textarea {
 	position: relative;
 	overflow-x: hidden;
 	text-align: left;
-	padding: 2.5rem 10rem 0rem 10rem ;
+	padding: 2.5rem 10% 0rem 10% ;
 }
 
 	.spotlight.style1 .content {
